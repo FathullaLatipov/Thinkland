@@ -1,5 +1,10 @@
 Пункты что бы запустить проект:
 
+python3 -m venv venv
+
+MACOS - source venv/bin/activate
+Windows - venv/Scripts/activate
+
 docker-compose build
 
 docker-compose up
